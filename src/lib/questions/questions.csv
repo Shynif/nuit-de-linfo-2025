@@ -1,0 +1,41 @@
+ID;Question;Choix_Gauche;Choix_Droite;Next_ID_G;Next_ID_D;G_Planete;G_Inclusion;G_Securite;G_Budget;D_Planete;D_Inclusion;D_Securite;D_Budget
+1;Les ordinateurs de la salle 104 sont très lents. Quelle solution retenir ?;Acheter du matériel neuf;Installer une distribution Linux légère;0;0;-20;10;0;-20;15;-10;0;10
+2;Les enseignants impriment 500 pages par jour. Comment réduire cette consommation ?;Mettre en place des quotas stricts;Maintenir la situation actuelle;0;0;15;-10;0;10;-15;10;0;-10
+3;La salle serveur est réglée à 19°C. Faut‑il augmenter la température ?;Augmenter à 24°C;Conserver 19°C;0;0;10;0;-5;10;-10;0;5;-10
+4;Certaines tablettes ont l’écran fissuré mais restent fonctionnelles. Que faire ?;Remplacer par du matériel neuf;Effectuer une réparation interne;0;0;-15;10;0;-20;15;-5;-5;15
+5;Les lampes des vidéoprojecteurs sont hors service. Faut‑il passer aux écrans LED ?;Remplacer l’ensemble du matériel;Conserver les équipements actuels;0;0;-20;10;0;-20;15;-10;0;15
+6;Le directeur envoie des PDF très volumineux (10 Mo). Quelle solution adopter ?;Former à l’usage de liens partagés;Augmenter la capacité des boîtes mail;0;0;10;0;5;0;-10;0;0;-10
+7;Autoriser l’usage des téléphones personnels des élèves en cours (BYOD) ?;Oui, pour réduire les coûts;Non, fournir le matériel institutionnel;0;0;10;-15;-5;15;-10;15;5;-20
+8;Faut‑il activer l’extinction automatique des postes à 18h ?;Oui, extinction automatique;Non, laisser l’autonomie aux utilisateurs;0;0;15;-10;5;10;-15;10;-5;-10
+9;Doit‑on supprimer les fichiers de plus de 3 ans sur le Cloud ?;Effectuer un nettoyage complet;Conserver l’ensemble des données;0;0;15;0;10;0;-15;0;-5;-10
+10;Une association demande nos anciens câbles et souris. Quelle décision prendre ?;Donner le matériel réformé;Envoyer tout en déchetterie;0;0;15;15;0;0;-20;0;0;-5
+11;Un élève dyslexique demande une police adaptée sur le site. Répondre favorablement ?;Adapter la police du site;Refuser par souci esthétique;0;0;0;15;0;-5;0;-15;0;0
+12;Le site actuel est illisible sur mobile. Doit‑on le rendre responsive ?;Refaire le site en version responsive;Laisser la version actuelle;0;0;0;15;0;-10;0;-15;0;10
+13;Faut‑il employer l’écriture inclusive dans les communications officielles ?;Oui, adopter l’écriture inclusive;Non, conserver la norme académique;0;0;0;5;0;0;0;-5;5;0
+14;Certaines familles n’ont pas Internet pour consulter les bulletins. Que proposer ?;Mettre à disposition une version papier;Passer au tout numérique;0;0;-5;15;0;-5;5;-20;0;5
+15;Créer un club de programmation réservé aux filles pour encourager la mixité ?;Oui, proposer un groupe non mixte;Non, maintenir un groupe mixte;0;0;0;15;0;-5;0;-10;0;0
+16;Une vidéo du proviseur n’a pas de sous‑titres. Quelle solution adopter ?;Financer une transcription;Laisser la vidéo telle quelle;0;0;0;15;0;-10;0;-15;0;10
+17;Faut‑il acheter des souris adaptées aux gauchers ?;Oui, en fournir pour tous;Non, demander aux élèves de s’adapter;0;0;0;15;0;-10;0;-10;0;10
+18;Les liens du site doivent‑ils être bleus (RGAA) ou gris (design) ?;Bleu – conforme aux normes d’accessibilité;Gris – privilégier le design;0;0;0;10;0;0;0;-15;0;0
+19;Les enseignants rencontrent des difficultés avec le nouvel ENT. Que mettre en place ?;Financer une formation dédiée;Envoyer un guide PDF par mail;0;0;0;15;0;-15;0;-10;0;10
+20;Des rumeurs circulent sur un groupe Discord d’élèves. Faut‑il intervenir ?;Intervenir immédiatement;Ignorer la situation;0;0;0;10;5;-5;0;-10;-15;0
+21;Un élève a affiché son mot de passe sur son écran. Comment réagir ?;Appliquer une sanction;Expliquer les bonnes pratiques;0;0;0;-5;10;0;0;5;10;-5
+22;Ouvrir le Wi‑Fi invité sans mot de passe ?;Oui, accès libre;Non, installer un portail captif;0;0;0;10;-20;0;0;-10;15;0
+23;Publier des photos d’élèves sur Facebook sans floutage ?;Publier librement;Utiliser uniquement un site interne sécurisé;0;0;0;10;-15;0;0;-5;15;0
+24;La licence Photoshop est trop coûteuse. Quelle solution retenir ?;Utiliser une version non officielle;Passer à GIMP (logiciel libre);0;0;0;0;-20;15;0;-10;10;10
+25;Les clés USB circulent partout, augmentant les risques de virus. Quelle mesure appliquer ?;Bloquer l’usage des ports USB;Installer un antivirus renforcé;0;0;0;-15;20;0;0;0;10;-5
+26;Installer des caméras dans les couloirs et la cour ?;Déployer une surveillance complète;Installer uniquement à l’entrée;0;0;0;-15;15;-10;0;5;-5;5
+27;Une entreprise souhaite acheter les adresses mail des parents. Quelle décision prendre ?;Accepter la vente;Refuser catégoriquement;0;0;0;-5;-20;20;0;5;15;0
+28;Installer l’extension anti‑publicités uBlock Origin sur tous les postes ?;Oui, installation générale;Non, ne rien modifier;0;0;10;0;15;0;-10;0;-10;0
+29;Le disque de sauvegarde est saturé. Quelle action entreprendre ?;Acheter un nouveau disque;Supprimer les <a href="/minijeux/snake">anciennes sauvegardes</a>;0;0;0;0;15;-10;0;0;-15;10
+30;La fibre optique est trop coûteuse. Faut‑il rester en ADSL ?;Souscrire à la fibre;Rester en ADSL;0;0;0;15;0;-20;0;-15;0;20
+31;SCÉNARIO 1 : Un élève trouve une clé USB sur le parking. Que doit‑il faire ?;La connecter au réseau;La remettre au proviseur;32;0;0;0;-20;0;0;5;10;0
+32;SCÉNARIO 1 : La clé contenait un ransomware détecté. Quelle réaction adopter ?;Payer la rançon;Tout reformater;0;33;0;0;-10;-20;0;-10;5;-10
+33;SCÉNARIO 1 : Après formatage, les enseignants ont perdu leurs cours. Comment organiser la continuité ?;Fermer l’établissement deux jours;Continuer en improvisant sans ordinateurs;0;0;5;0;0;-10;0;10;0;5
+34;SCÉNARIO 2 : Une application SaaS propose un an gratuit. Faut‑il accepter ?;Accepter l’offre gratuite;Refuser par prudence;35;0;0;10;-5;10;0;0;5;0
+35;SCÉNARIO 2 : Après un an, l’abonnement passe à 10 000€/an. Quelle décision prendre ?;Payer malgré le coût;Migrer vers une solution libre;0;36;0;0;0;-20;0;-10;5;10
+36;SCÉNARIO 2 : La migration vers le Libre se déroule difficilement. Quelle solution adopter ?;Faire appel à un expert;Former les élèves pour gérer la migration;0;0;0;0;5;-15;0;15;0;0
+37;SCÉNARIO 3 : Canicule – alerte orange. Quelle conduite tenir ?;Laisser la climatisation fonctionner normalement;Couper les serveurs par précaution;38;0;-10;0;0;-10;10;-5;0;0
+38;SCÉNARIO 3 : La climatisation tombe en panne et les serveurs surchauffent. Quelle action choisir ?;Remplacer tout le matériel;Réutiliser de l’ancien matériel;0;0;-20;0;0;-20;10;-10;0;10
+39;SCÉNARIO 4 : Une influenceuse souhaite filmer dans le lycée. Quelle réponse donner ?;Accepter pour améliorer la communication;Refuser par respect du droit à l’image;40;0;0;0;-5;0;0;5;10;0
+40;SCÉNARIO 4 : Une marque souhaite sponsoriser après un buzz positif. Que décider ?;Accepter le financement;Refuser toute publicité;0;0;0;-5;-5;20;0;10;10;-5
